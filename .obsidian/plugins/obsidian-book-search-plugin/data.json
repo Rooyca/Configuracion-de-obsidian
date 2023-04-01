@@ -1,0 +1,13 @@
+{
+  "folder": "Libros",
+  "fileNameFormat": "{{author}} - {{title}}",
+  "frontmatter": "",
+  "content": "",
+  "useDefaultFrontmatter": false,
+  "defaultFrontmatterKeyType": "Snake Case",
+  "templateFile": "Templates/Book.md",
+  "serviceProvider": "google",
+  "naverClientId": "",
+  "naverClientSecret": "",
+  "localePreference": "es-mx"
+}
